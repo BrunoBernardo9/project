@@ -5,7 +5,7 @@ Para utilizar local é necessário XAMPP ou WampServer instalado.
 
 Passo a passo:
 
-1 - Clone or download;
+1 - Download ZIP;
 
 2 - Extrair o zip e renomear a pasta de project-main para project;
 
