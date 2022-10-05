@@ -7,7 +7,7 @@ Passo a passo:
 
 1 - Clone or download;
 
-2 - Extrair o zip e renomear a pasta de project-master para project;
+2 - Extrair o zip e renomear a pasta de project-main para project;
 
 3 - Copiar a pasta project para htdocs de seu XAMPP;
 
